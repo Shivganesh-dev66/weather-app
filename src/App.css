@@ -1,0 +1,77 @@
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+.unit-toggle {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .unit-toggle:hover {
+        background-color: #0056b3;
+    }
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-left-color: #09f;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.weather-dashboard {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+    .weather-dashboard {
+        padding: 10px;
+    }
+}
+
+.loader-spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-left-color: #09f; 
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+.component-container {
+    margin-bottom: 20px;
+}
