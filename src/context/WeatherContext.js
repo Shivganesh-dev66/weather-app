@@ -34,8 +34,14 @@ export const WeatherProvider = ({ children }) => {
             await new Promise((resolve) => setTimeout(resolve, 2000));
             //const response = await axios.get(`http://localhost:5000/weather?location=${location}`);
             const response = await fetch(`/api/weather?location=${location}`);
-            setWeatherData(response.data);
+            if (!response.ok) {
+                throw new Error("Failed to fetch weather data");
+            }
+            const data = await response.json();
+            console.log("Weather Data:", data); 
+            setWeatherData(data);
         } catch (err) {
+            console.error("Fetch Error:", err); 
             setError('Failed to fetch weather data. Please try again.');
         } finally {
             setLoading(false);
