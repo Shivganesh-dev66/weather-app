@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
     "\\src\\components",
-    "\\src\\context",
-    "\\weather-proxy"
+    "\\src\\context"
   ],
-  "SelectedNode": "\\weather-proxy\\server.js",
   "PreviewInSolutionExplorer": false
 }

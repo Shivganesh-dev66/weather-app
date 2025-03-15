@@ -9,7 +9,8 @@ app.use(cors());
 
 app.get('/weather', async (req, res) => {
     const { location } = req.query;
-    const apiKey = '86e9c25030de476ca9d140217251103'; 
+    //const apiKey = '86e9c25030de476ca9d140217251103'; 
+    const apiKey = process.env.REACT_APP_API_KEY;
     const apiUrl = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}`;
 
     try {
