@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\weather-app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\weather-app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\weather-app\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\weather-app\\weather-proxy\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:weather-proxy\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -70,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "WeatherContext.js",
               "DocumentMoniker": "E:\\weather-app\\src\\context\\WeatherContext.js",
               "RelativeDocumentMoniker": "src\\context\\WeatherContext.js",
@@ -83,12 +91,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T13:59:27.042Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SearchBar.js",
               "DocumentMoniker": "E:\\weather-app\\src\\components\\SearchBar.js",
               "RelativeDocumentMoniker": "src\\components\\SearchBar.js",
@@ -97,12 +104,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T13:57:45.303Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Loader.js",
               "DocumentMoniker": "E:\\weather-app\\src\\components\\Loader.js",
               "RelativeDocumentMoniker": "src\\components\\Loader.js",
@@ -111,12 +117,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T13:58:45.144Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WeatherDisplay.js",
               "DocumentMoniker": "E:\\weather-app\\src\\components\\WeatherDisplay.js",
               "RelativeDocumentMoniker": "src\\components\\WeatherDisplay.js",
@@ -125,12 +130,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T13:58:19.425Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "App.js",
               "DocumentMoniker": "E:\\weather-app\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
@@ -139,12 +143,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T14:06:51.87Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.css",
               "DocumentMoniker": "E:\\weather-app\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -153,26 +156,24 @@
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAEsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-11T14:07:07.619Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "server.js",
               "DocumentMoniker": "E:\\weather-app\\weather-proxy\\server.js",
               "RelativeDocumentMoniker": "weather-proxy\\server.js",
               "ToolTip": "E:\\weather-app\\weather-proxy\\server.js",
               "RelativeToolTip": "weather-proxy\\server.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T14:26:10.164Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "WeatherDisplay.css",
               "DocumentMoniker": "E:\\weather-app\\src\\components\\WeatherDisplay.css",
               "RelativeDocumentMoniker": "src\\components\\WeatherDisplay.css",
@@ -181,12 +182,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-12T14:42:47.781Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ErrorMessage.js",
               "DocumentMoniker": "E:\\weather-app\\src\\components\\ErrorMessage.js",
               "RelativeDocumentMoniker": "src\\components\\ErrorMessage.js",
@@ -195,12 +195,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-11T13:58:58.769Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainContent.js",
               "DocumentMoniker": "E:\\weather-app\\src\\components\\MainContent.js",
               "RelativeDocumentMoniker": "src\\components\\MainContent.js",
@@ -209,12 +208,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-12T15:11:17.587Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "App.test.js",
               "DocumentMoniker": "E:\\weather-app\\src\\App.test.js",
               "RelativeDocumentMoniker": "src\\App.test.js",
@@ -223,12 +221,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-13T13:53:13.529Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.js",
               "DocumentMoniker": "E:\\weather-app\\src\\index.js",
               "RelativeDocumentMoniker": "src\\index.js",
@@ -237,12 +234,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-13T13:53:31.364Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "index.css",
               "DocumentMoniker": "E:\\weather-app\\src\\index.css",
               "RelativeDocumentMoniker": "src\\index.css",
@@ -251,12 +247,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-13T13:53:25.585Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "package-lock.json",
               "DocumentMoniker": "E:\\weather-app\\weather-proxy\\package-lock.json",
               "RelativeDocumentMoniker": "weather-proxy\\package-lock.json",
@@ -265,12 +260,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-13T13:53:47.13Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "package.json",
               "DocumentMoniker": "E:\\weather-app\\weather-proxy\\package.json",
               "RelativeDocumentMoniker": "weather-proxy\\package.json",
@@ -279,6 +273,33 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-13T13:53:51.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "E:\\weather-app\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "E:\\weather-app\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-15T08:44:27.236Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\weather-app\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\weather-app\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-15T09:01:27.72Z",
               "IsPinned": true,
               "EditorCaption": ""
             }

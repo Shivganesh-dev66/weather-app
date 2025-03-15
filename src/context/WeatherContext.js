@@ -5,11 +5,10 @@ export const WeatherContext = createContext();
 
 export const WeatherProvider = ({ children }) => {
     const [weatherData, setWeatherData] = useState(null);
-    const [unit, setUnit] = useState('C'); // Default unit is Celsius
+    const [unit, setUnit] = useState('C'); 
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
 
-    // Fetch user's current location
     const fetchUserLocation = () => {
         return new Promise((resolve, reject) => {
             if (navigator.geolocation) {
@@ -33,7 +32,8 @@ export const WeatherProvider = ({ children }) => {
         setError(null);
         try {
             await new Promise((resolve) => setTimeout(resolve, 2000));
-            const response = await axios.get(`http://localhost:5000/weather?location=${location}`);
+            //const response = await axios.get(`http://localhost:5000/weather?location=${location}`);
+            const response = await fetch(`/api/weather?location=${location}`);
             setWeatherData(response.data);
         } catch (err) {
             setError('Failed to fetch weather data. Please try again.');
